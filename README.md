@@ -1,4 +1,4 @@
-# Resume Category Prediction App
+# Resume Screener App
 
 This is a Streamlit-based NLP web application that predicts the top 3 job categories of a resume along with confidence scores. You can upload resumes in PDF, DOCX, or TXT format, and the app will extract the text, clean it, and use a pre-trained Support Vector Machine (SVM) model to classify the resume.
 
